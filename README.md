@@ -26,7 +26,7 @@ Here’s a quick overview of how it works:
 
 ## Technologies Used
 
-- **HTML5**:  To create the basic structure of the clock.
+- **HTML5**:  To create the structure of the clock.
 - **CSS3**: To design the layout and style the elements for a modern look.
 - **JavaScript**: To implement the logic for time display and format toggling.
 
