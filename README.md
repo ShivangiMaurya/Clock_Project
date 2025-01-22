@@ -31,7 +31,7 @@ Here’s a quick overview of how it works:
 - **JavaScript**: To implement the logic for time display and format toggling.
 
 ## Project Structure
-- countdown-app
+- clock-app
   
 ├── clock.html      # HTML file for the app structure
 
