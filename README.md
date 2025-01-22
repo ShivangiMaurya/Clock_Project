@@ -1,7 +1,7 @@
 
 # Clock Project 🚀
 
-The Digital Clock is a small JavaScript project that dynamically displays the current time in either a 12-hour or 24-hour format. It provides a real-time view of the hours, 
+The Digital Clock is a JavaScript project that dynamically displays the current time in either a 12-hour or 24-hour format. It provides a real-time view of the hours, 
 minutes, and seconds, updating every second. This simple project showcases the use of HTML for structure, CSS for styling, and JavaScript for functionality.
 
 ## Features
