@@ -10,7 +10,6 @@ minutes, and seconds, updating every second. This simple project showcases the u
 - Responsive Design: The clock is styled to look visually appealing on various screen sizes.
 - Interactive Button: A button allows users to switch formats dynamically, enhancing interactivity.
 
-
 ## How it works
 The clock will show you a real-time view of the hours, minutes, and seconds, updating every second. This simple project showcases the use of HTML for structure, 
 CSS for styling, and JavaScript for functionality.
